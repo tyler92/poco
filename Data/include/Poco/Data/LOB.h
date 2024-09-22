@@ -24,6 +24,7 @@
 #include "Poco/Exception.h"
 #include <vector>
 #include <algorithm>
+#include <string>
 
 
 namespace Poco {
